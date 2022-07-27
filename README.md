@@ -33,7 +33,3 @@
 [Git status: проверка репозитория](https://www.atlassian.com/ru/git/tutorials/inspecting-a-repository)
 [Отмена коммитов и изменений ](https://www.atlassian.com/ru/git/tutorials/undoing-changes)
 [Руководство по оформлению файлов Markdown](https://gist.github.com/Jekins/2bf2d0638163f1294637#Links)
-* Git для новичков (часть 1)
-*
-*
-
